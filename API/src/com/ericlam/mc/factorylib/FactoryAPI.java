@@ -19,4 +19,7 @@ public interface FactoryAPI {
     ItemStackFactory getItemStackFactory();
 
 
+    CommandManager getCommandManager();
+
+
 }

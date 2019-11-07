@@ -15,4 +15,9 @@ public final class FactoryLib implements FactoryAPI {
     public ItemStackFactory getItemStackFactory() {
         return null;
     }
+
+    @Override
+    public CommandManager getCommandManager() {
+        return null;
+    }
 }
