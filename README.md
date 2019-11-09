@@ -1,6 +1,32 @@
 # FactoryLib
 Simplified Utilties for Spigot API
 
+## 資訊
+
+最新版本: 0.0.2
+
+## 使用
+
+### Maven
+
+```mxml
+<repository>
+            <id>xuan</id>
+            <url>http://xuan.nctu.me:8081/repository/Maven/</url>
+</repository>
+```
+```mxml
+<dependency>
+  <groupId>com.ericlam.mc</groupId>
+  <artifactId>FactoryLib-API</artifactId>
+  <version>{{最新版本}}</version>
+</dependency>
+```
+
+### 下載
+
+可以下載這個 git 或者 從 [這裏]() 下載 
+
 ## 簡單演示
 
 ### 使用
