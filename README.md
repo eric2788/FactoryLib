@@ -25,7 +25,7 @@ Simplified Utilties for Spigot API
 
 ### 下載
 
-可以下載這個 git 或者 從 [這裏]() 下載 
+可以下載這個 git 或者 從 [這裏](/FactoryLib-API.jar) 下載 
 
 ## 簡單演示
 
