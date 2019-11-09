@@ -25,7 +25,9 @@ Simplified Utilties for Spigot API
 
 ### 下載
 
-可以下載這個 git 或者 從 [這裏](/FactoryLib-API.jar) 下載 
+可以下載這個 git 或者 從 [這裏](/FactoryLib-API.jar) 下載 API
+
+插件版本可到 [這裏下載](https://www.mediafire.com/file/4u03c1ce22wef1f/FactoryLib.jar/file) (最新更新: 2019/11/9)
 
 ## 簡單演示
 
