@@ -15,7 +15,7 @@ Simplified Utilties for Spigot API
 
 ### 使用
 
-![use](https://media.discordapp.net/attachments/557111194457079829/642040936905572402/unknown.png)
+![use](https://cdn.discordapp.com/attachments/319130087167492096/642714438662750219/unknown.png)
 
 ### 結果
 

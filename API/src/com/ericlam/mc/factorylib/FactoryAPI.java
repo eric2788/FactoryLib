@@ -19,6 +19,11 @@ public interface FactoryAPI {
     ItemStackFactory getItemStackFactory();
 
 
+    /**
+     * 獲取 指令管理器
+     *
+     * @return 指令管理器
+     */
     CommandManager getCommandManager();
 
 
