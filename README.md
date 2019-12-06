@@ -3,7 +3,7 @@ Simplified Utilties for Spigot API
 
 ## 資訊
 
-最新版本: 0.0.2
+最新版本: 0.0.3
 
 ## 使用
 
