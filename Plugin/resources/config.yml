@@ -1,0 +1,4 @@
+command-lib:
+  no-perm: "&c權限不足 %s"
+  unknown-cmd: "&c未知指令 %s"
+  no-args: "&c參數不足 %s"

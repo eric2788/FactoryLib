@@ -30,9 +30,8 @@ public interface ConfigManager {
      * @param type data type | 數據類型
      * @param <T>  type
      * @return data getter wtih that type | 數據獲取器
-     * @throws UnSupportedTypeException cannot find that type, you may need to register by using {@link ConfigManager#registerTypeGetter(Class, Function)}
      */
-    <T> DataGetter<T> getDataGetter(Class<T> type) throws UnSupportedTypeException;
+    <T> DataGetter<T> getDataGetter(Class<T> type);
 
     /**
      * regsiter type getter

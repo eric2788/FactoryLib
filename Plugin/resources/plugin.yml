@@ -1,0 +1,8 @@
+name: FactoryLib
+version: 0.0.5
+api-version: "1.13"
+author: Hydranapse_
+main: com.ericlam.mc.factorylib.FactoryLib
+commands:
+  test:
+    description: test command
